@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AutoKill
 - 👀 I’m interested in Gaming, Programming, Design...
 - 😎 I use c#, python, javascript, html, css...
-- 🌱 I’m currently learning c, c++
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me milanovicn257@gmail.com
 
 <!---
