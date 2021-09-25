@@ -3,6 +3,7 @@
 - 😎 I use c#, python, javascript, html, css...
 - 🌱 I’m currently learning Next.js
 - 📫 How to reach me milanovicn257@gmail.com
+- 🌐 https://autokill.me
 
 <!---
 AutoKill/AutoKill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
