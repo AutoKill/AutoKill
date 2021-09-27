@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, Programming, Design...
 - 😎 I use c#, python, javascript, html, css...
 - 🌱 I’m currently learning Next.js
-- 📫 How to reach me milanovicn257@gmail.com
+- 📫 How to reach me contact@autokill.me
 - 🌐 https://autokill.me
 
 <!---
