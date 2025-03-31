@@ -1,4 +1,4 @@
-Hi 👋 My name is Nikola
+Hi 👋 I am AutoKill
 =======================
 
 Web Developer
